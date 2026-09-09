@@ -30,7 +30,7 @@ return [
         "JohnRobert Pacamo is a fourth-year IT student at Data Center College of the Philippines, Bangued, currently serving as an OJT library intern where he applies his technical skills to support day-to-day operations. His academic journey includes a Bachelor of Science in Information Technology (2023–Present) and completion of Senior High School at Abra High School Main Campus (2021–2023). He holds a certification in Online Safety Through Netiquette, reflecting his commitment to responsible and secure use of digital technologies. Passionate about technology and continuous learning, JohnRobert is open to opportunities that allow him to grow professionally and contribute meaningfully to IT and information management roles.",
     ],
 
-    'avatar' => 'media/avatars/me.png',
+    'avatar' => 'img/pacamo.jpg',
     'resume' => 'uploads/resume.pdf',
 
     'interests' => [
