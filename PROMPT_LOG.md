@@ -68,3 +68,8 @@ foor the projects remove it, make it empty
 ## 2026-09-09 08:09:50
 
 for my Download CV remove it
+
+
+## 2026-09-09 08:11:16
+
+add this as my social accounts: https://www.facebook.com/john.robert.quemerista.pacamo.2024

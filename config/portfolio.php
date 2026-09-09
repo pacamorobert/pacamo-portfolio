@@ -58,6 +58,7 @@ return [
     'social' => [
         ['icon' => 'fa-solid fa-envelope', 'label' => 'E-mail Me', 'url' => 'mailto:pacamorobert@gmail.com'],
         ['icon' => 'fa-brands fa-github', 'label' => 'GitHub', 'url' => 'https://github.com/pacamorobert'],
+        ['icon' => 'fa-brands fa-facebook', 'label' => 'Facebook', 'url' => 'https://www.facebook.com/john.robert.quemerista.pacamo.2024'],
     ],
 
     /*
