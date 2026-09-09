@@ -39,10 +39,6 @@
 
     <div id="hb-notification-container" class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live="polite" aria-atomic="true"></div>
 
-    <script>
-        window.PORTFOLIO_SEARCH_INDEX = @json(App\Http\Controllers\PortfolioController::searchIndex());
-    </script>
-
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.9/dist/cdn.min.js"></script>
 </body>
 </html>

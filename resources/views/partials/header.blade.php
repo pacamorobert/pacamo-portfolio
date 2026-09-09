@@ -21,12 +21,6 @@
             </ul>
 
             <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
-                <button aria-label="toggle search" class="inline-block px-3 text-xl text-[var(--hb-color-header-fg)] hover:text-primary-500 cursor-pointer" data-search-toggle>
-                    <svg height="16" width="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M505 442.7l-99.7-99.7C426.9 349.3 448 306.7 448 256c0-141.2-114.8-256-256-256C50.8 0 0 50.8 0 197.8s114.8 256 256 256c50.7 0 93.4-21.1 123.9-42.7l99.7 100.7c4.7 4.7 12.3 4.7 17 0l8-8c4.6-4.7 4.6-12.3-.6-17.1zM256 416c-88.2 0-160-71.8-160-160S167.8 96 256 96s160 71.8 160 160-71.8 160-160 160z"/>
-                    </svg>
-                </button>
-
                 <div class="px-3 text-[var(--hb-color-header-fg)] hover:text-primary-500">
                     <button aria-label="Toggle theme" class="theme-toggle mt-1 cursor-pointer" accesskey="t" title="Toggle dark / light appearance">
                         <svg id="moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="block dark:hidden"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
@@ -67,5 +61,3 @@
         </nav>
     </header>
 </div>
-
-@include('partials.search-modal')
