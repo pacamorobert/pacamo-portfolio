@@ -58,3 +58,8 @@ Remove the serch engine in my portfolio
 ## 2026-09-09 08:06:30
 
 for my profile picture, change it public/img/pacamo.jpg
+
+
+## 2026-09-09 08:08:20
+
+foor the projects remove it, make it empty

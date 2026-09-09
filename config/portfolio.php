@@ -252,29 +252,7 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'projects' => [
-        [
-            'title' => 'Pandas',
-            'summary' => 'Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.',
-            'tags' => ['Data Science'],
-            'date' => '2019-07-01',
-            'url' => '#',
-        ],
-        [
-            'title' => 'PyTorch',
-            'summary' => 'Open source machine learning framework that accelerates the path from research prototyping to production deployment.',
-            'tags' => ['Machine Learning'],
-            'date' => '2019-07-01',
-            'url' => '#',
-        ],
-        [
-            'title' => 'scikit-learn',
-            'summary' => 'Machine learning in Python: simple and efficient tools for predictive data analysis in Python.',
-            'tags' => ['Machine Learning'],
-            'date' => '2019-07-01',
-            'url' => '#',
-        ],
-    ],
+    'projects' => [],
 
     /*
     |--------------------------------------------------------------------------
