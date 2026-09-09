@@ -12,13 +12,12 @@
             </label>
 
             <ul id="nav-menu" class="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start lg:flex flex-col lg:flex-row items-start lg:items-center">
-                <li class="nav-item"><a class="nav-link {{ Request::routeIs('home') ? 'active' : '' }}" href="{{ route('home') }}">Bio</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}#papers">Papers</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}#talks">Talks</a></li>
-                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}#news">News</a></li>
+                <li class="nav-item"><a class="nav-link {{ Request::routeIs('home') ? 'active' : '' }}" href="{{ route('home') }}">Home</a></li>
+                <li class="nav-item"><a class="nav-link {{ Request::routeIs('home') ? 'active' : '' }}" href="{{ route('home') }}#bio">Bio</a></li>
                 <li class="nav-item"><a class="nav-link {{ Request::routeIs('experience') ? 'active' : '' }}" href="{{ route('experience') }}">Experience</a></li>
                 <li class="nav-item"><a class="nav-link {{ Request::routeIs('projects') ? 'active' : '' }}" href="{{ route('projects') }}">Projects</a></li>
-                <li class="nav-item"><a class="nav-link {{ Request::routeIs('courses') ? 'active' : '' }}" href="{{ route('courses') }}">Courses</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}#education">Education</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ route('home') }}#contact">Contact</a></li>
             </ul>
 
             <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
