@@ -73,3 +73,8 @@ for my Download CV remove it
 ## 2026-09-09 08:11:16
 
 add this as my social accounts: https://www.facebook.com/john.robert.quemerista.pacamo.2024
+
+
+## 2026-09-09 08:12:43
+
+also remove now the others that is not related to my portfolio, without affecting my portfolio
