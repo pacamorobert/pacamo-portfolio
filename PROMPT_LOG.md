@@ -63,3 +63,8 @@ for my profile picture, change it public/img/pacamo.jpg
 ## 2026-09-09 08:08:20
 
 foor the projects remove it, make it empty
+
+
+## 2026-09-09 08:09:50
+
+for my Download CV remove it

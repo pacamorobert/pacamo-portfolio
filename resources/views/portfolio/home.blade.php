@@ -62,14 +62,6 @@
                             </div>
                         </div>
 
-                        <div class="mb-16">
-                            <a href="{{ asset(config('portfolio.resume')) }}" target="_blank" rel="noopener"
-                                class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-primary-600 to-secondary-600 hover:from-primary-700 hover:to-secondary-700 text-white font-bold text-lg rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300">
-                                <i class="fa-solid fa-arrow-down w-5 h-5 mr-3 text-xl"></i>
-                                Download CV
-                            </a>
-                        </div>
-
                         <div id="education" class="mb-16">
                             <div class="flex items-center gap-4 mb-8">
                                 <div class="flex-shrink-0 w-12 h-12 bg-primary-100 dark:bg-primary-900/50 rounded-full flex items-center justify-center">
