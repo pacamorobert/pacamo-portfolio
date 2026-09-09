@@ -18,3 +18,28 @@ create me a PROMPT_LOG.md and also every time i prompt itwill push or commit to 
 ## 2026-09-09 07:29:05
 
 im my portfolio remove the others just keep #Home, #Bio, #Experience, #Projects, #Education, #Contact, remove the others
+
+
+## 2026-09-09 07:43:12
+
+Write a short, professional bio for me based on the following details. Keep it clear and well-structured:
+
+Name: JohnRobert Pacamo
+
+Current Role: 4th-year IT Student & OJT Library Intern at Data Center College of the Philippines, Bangued
+
+Education:
+
+College: Data Center College of the Philippines, Bangued (2023–Present)
+
+Senior High School: Abra High School Main Campus (2021–2023)
+
+Certifications: Online Safety Through Netiquette
+
+Contact Details:
+
+Email: pacamorobert@gmail.com
+
+GitHub: https://github.com/pacamorobert
+
+Create two versions for me: a brief summary version (2–3 sentences) and an expanded version suitable for a profile or resume.
