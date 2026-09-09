@@ -8,16 +8,16 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'name' => 'Dr. Alex Johnson',
-    'site_name' => 'Your Name',
-    'given_name' => 'Alex',
-    'family_name' => 'Johnson',
+    'name' => 'JohnRobert Pacamo',
+    'site_name' => 'JohnRobert Pacamo',
+    'given_name' => 'JohnRobert',
+    'family_name' => 'Pacamo',
     'pronouns' => 'he/him',
-    'status_icon' => '☕️',
-    'role' => 'Senior AI Research Scientist',
+    'status_icon' => '💻',
+    'role' => '4th-Year IT Student & OJT Library Intern',
     'affiliation' => [
-        'name' => 'Meta AI',
-        'url' => 'https://ai.meta.com/',
+        'name' => 'Data Center College of the Philippines, Bangued',
+        'url' => 'https://dccp.edu.ph/',
     ],
 
     /*
@@ -27,48 +27,37 @@ return [
     */
 
     'bio' => [
-        "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development.",
-        'I blog about machine learning, deep learning, and moonshots. Please reach out to collaborate 😃',
+        "JohnRobert Pacamo is a fourth-year IT student at Data Center College of the Philippines, Bangued, currently serving as an OJT library intern where he applies his technical skills to support day-to-day operations. His academic journey includes a Bachelor of Science in Information Technology (2023–Present) and completion of Senior High School at Abra High School Main Campus (2021–2023). He holds a certification in Online Safety Through Netiquette, reflecting his commitment to responsible and secure use of digital technologies. Passionate about technology and continuous learning, JohnRobert is open to opportunities that allow him to grow professionally and contribute meaningfully to IT and information management roles.",
     ],
 
     'avatar' => 'media/avatars/me.png',
     'resume' => 'uploads/resume.pdf',
 
     'interests' => [
-        'Large Language Models',
-        'Computer Vision',
-        'Reinforcement Learning',
-        'AI Ethics',
+        'Information Technology',
+        'Information Management',
+        'Online Safety & Netiquette',
+        'Continuous Learning',
     ],
 
     'education' => [
         [
-            'degree' => 'PhD Computer Science',
-            'institution' => 'Stanford University',
-            'start' => '2015',
-            'end' => '2019',
+            'degree' => 'BS Information Technology',
+            'institution' => 'Data Center College of the Philippines, Bangued',
+            'start' => '2023',
+            'end' => null,
         ],
         [
-            'degree' => 'MS Computer Science',
-            'institution' => 'Carnegie Mellon University',
-            'start' => '2013',
-            'end' => '2015',
-        ],
-        [
-            'degree' => 'BS Computer Science',
-            'institution' => 'MIT',
-            'start' => '2009',
-            'end' => '2013',
+            'degree' => 'Senior High School',
+            'institution' => 'Abra High School Main Campus',
+            'start' => '2021',
+            'end' => '2023',
         ],
     ],
 
     'social' => [
-        ['icon' => 'fa-solid fa-envelope', 'label' => 'E-mail Me', 'url' => 'mailto:alex.johnson@example.com'],
-        ['icon' => 'fa-brands fa-x-twitter', 'label' => 'X', 'url' => 'https://x.com/example'],
-        ['icon' => 'fa-brands fa-github', 'label' => 'GitHub', 'url' => 'https://github.com/example'],
-        ['icon' => 'fa-brands fa-linkedin-in', 'label' => 'LinkedIn', 'url' => 'https://www.linkedin.com/in/example/'],
-        ['icon' => 'ai ai-google-scholar', 'label' => 'Google Scholar', 'url' => 'https://scholar.google.com/citations?user=example'],
-        ['icon' => 'ai ai-orcid', 'label' => 'ORCID', 'url' => 'https://orcid.org/0000-0002-1825-0097'],
+        ['icon' => 'fa-solid fa-envelope', 'label' => 'E-mail Me', 'url' => 'mailto:pacamorobert@gmail.com'],
+        ['icon' => 'fa-brands fa-github', 'label' => 'GitHub', 'url' => 'https://github.com/pacamorobert'],
     ],
 
     /*
@@ -216,18 +205,11 @@ return [
 
     'experience' => [
         [
-            'role' => 'Senior AI Research Scientist',
-            'org' => 'Meta AI',
-            'start' => '2020-01',
+            'role' => 'OJT Library Intern',
+            'org' => 'Data Center College of the Philippines, Bangued',
+            'start' => '2025',
             'end' => null,
-            'summary' => 'Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.',
-        ],
-        [
-            'role' => 'AI Research Intern',
-            'org' => 'OpenAI',
-            'start' => '2019-06',
-            'end' => '2019-12',
-            'summary' => 'Worked on GPT-3 scaling. Co-authored paper on prompt engineering.',
+            'summary' => 'Applying technical skills to support library operations, information management, and day-to-day services as part of on-the-job training.',
         ],
     ],
 
@@ -235,32 +217,32 @@ return [
         [
             'name' => 'Technical Skills',
             'items' => [
-                ['label' => 'Python', 'level' => 5],
-                ['label' => 'Machine Learning', 'level' => 5],
-                ['label' => 'Cloud Computing', 'level' => 4],
+                ['label' => 'Information Technology', 'level' => 4],
+                ['label' => 'Computer Literacy', 'level' => 5],
+                ['label' => 'Information Management', 'level' => 4],
             ],
         ],
         [
-            'name' => 'Research & Communication',
+            'name' => 'Professional Skills',
             'items' => [
-                ['label' => 'Academic Writing', 'level' => 5],
-                ['label' => 'Conference Presentations', 'level' => 4],
-                ['label' => 'Grant Proposals', 'level' => 4],
+                ['label' => 'Online Safety & Netiquette', 'level' => 5],
+                ['label' => 'Communication', 'level' => 4],
+                ['label' => 'Teamwork', 'level' => 4],
             ],
         ],
     ],
 
     'languages' => [
-        ['name' => 'English', 'level' => 5, 'label' => 'Native'],
-        ['name' => 'Spanish', 'level' => 4, 'label' => 'Fluent'],
+        ['name' => 'English', 'level' => 4, 'label' => 'Advanced'],
+        ['name' => 'Filipino', 'level' => 5, 'label' => 'Native'],
     ],
 
     'awards' => [
         [
-            'title' => 'Best Paper Award',
-            'awarder' => 'NeurIPS',
-            'date' => '2022',
-            'summary' => 'Awarded for groundbreaking work on efficient training of large models.',
+            'title' => 'Online Safety Through Netiquette',
+            'awarder' => 'Online Certification',
+            'date' => '',
+            'summary' => 'Certification demonstrating responsible and secure use of digital technologies and proper online etiquette.',
         ],
     ],
 
